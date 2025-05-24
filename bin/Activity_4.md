@@ -24,7 +24,7 @@ If the user  select Remove Last  Record , remove the last record in the linked l
 If the user  select Display All Record, display the content of linked list using the for each loop
 If the user  select Display Specific Record, ask the user to what record to display. Be able to check inputted number is within the range of the linked list size
 If the user  select Edit Record, ask the user to input the record what to be edited Input the new data for the field and update the content of the text file. Be able to check inputted number is within the range of the linked list size display the content of linked list using the for each loop
-Use different control structure and methods to accomplish this activity.
+Use different control structure and methods to accomplish this activity.a
 Submit your files on a PDF format in your activity folder. The filename must be SURNAME-LINKLIST.pdf (Example: MARQUEZ-LINKLIST.pdf). Wrong filename will be treated as invalid and will not be checked.
 The content of your pdf are the  following 
 Source Code with a comment as an explanation of your code. Use your own word in explaining your code. An AI generated explanation is not acceptable
